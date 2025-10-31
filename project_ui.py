@@ -1,7 +1,3 @@
-# project_ui.py
-# -------------------------------------------------------
-# UI for GeoScatter Tool Pro 🐸
-# -------------------------------------------------------
 try:
     from PySide6 import QtCore, QtGui, QtWidgets
     from shiboken6 import wrapInstance
